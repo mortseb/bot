@@ -8,11 +8,11 @@ command_queue = []
 priority_queue = []
 
 bot = commands.Bot(
-    token='oauth:glakxo2aomnw5ze7e1nnvxgtnz3vca',
-    client_id='kvhvcuajb6clf2d6gm0a9wlc4pjtbz',
-    nick='Mortseb',
+    token='oauth:XXXXXXXXXXXXXXXXXXXXXXXXX',
+    client_id='XXXXXXXXXXXXXXXXX',
+    nick='XXXXXXXXXXXX',
     prefix='!',
-    initial_channels=['Mortseb']
+    initial_channels=['XXXXXXXXX']
 )
 
 
